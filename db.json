@@ -1,0 +1,52 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "subject": "Hi Again",
+      "content": "just wanted to check on you",
+      "isRead": true
+    },
+    {
+      "id": 2,
+      "subject": "hi",
+      "content": "just want check on you looooooooooooooong teeeextt tuencated test",
+      "isRead": true
+    },
+    {
+      "id": 3,
+      "subject": "Hi Again",
+      "content": "just wanted to check on check on you looooooooooooooong teeeextt tuencated test",
+      "isRead": true
+    },
+    {
+      "id": 4,
+      "subject": "Hey",
+      "content": "Are we good now check on you looooooooooooooong teeeextt tuencated test",
+      "isRead": true
+    },
+    {
+      "id": 5,
+      "subject": "Hi Again",
+      "content": "can we end it all dsadsadsad?",
+      "isRead": true
+    },
+    {
+      "id": 6,
+      "subject": "Hello There",
+      "content": "it's about time that i checked up on you ",
+      "isRead": false
+    },
+    {
+      "id": 7,
+      "subject": "yoo",
+      "content": " check on you looooooooooooooong teeeextt tuencated test",
+      "isRead": false
+    },
+    {
+      "id": 8,
+      "subject": "what's up",
+      "content": "all is good check on you looooooooooooooong teeeextt tuencated test",
+      "isRead": false
+    }
+  ]
+}
